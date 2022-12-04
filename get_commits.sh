@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# git clone https://github.com/huggingface/transformers.git
+git clone https://github.com/huggingface/transformers.git
 
 cd transformers
 
