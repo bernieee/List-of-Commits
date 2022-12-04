@@ -1,6 +1,6 @@
 # List-of-Commits
 
-Detailed explanation of all steps is provided in List-of-Commits.ipynb.
+Detailed explanation of all steps is provided in [List-of-Commits.ipynb](https://github.com/bernieee/List-of-Commits/blob/main/List-of-Commits.ipynb).
 
 #### To run .sh:
 1. open cmd
